@@ -8,7 +8,9 @@
     "test": "node index.js"
   },
   "keywords": ["email","password"],
-  "git repository":"https://github.com/sriharinomula/common-user-validation.git",
+  "publishConfig": {
+    "registry": "https://github.com/sriharinomula/common-user-validation.git"
+  },
   "author": "nomula",
   "license": "ISC"
 }
