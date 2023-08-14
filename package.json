@@ -1,6 +1,6 @@
 {
   "name": "common-user-validation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "package to validate email and password",
   "type":"module",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "keywords": ["email","password"],
   "publishConfig": {
-    "registry": "https://github.com/sriharinomula/common-user-validation.git"
+    "registry": "https://www.npmjs.com/package/common-user-validation"
   },
   "author": "nomula",
   "license": "ISC"
