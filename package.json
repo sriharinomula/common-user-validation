@@ -1,0 +1,14 @@
+{
+  "name": "common-user-validation",
+  "version": "1.0.0",
+  "description": "package to validate email and password",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["email","password"],
+  "git repository":"https://github.com/sriharinomula/common-user-validation.git",
+  "author": "nomula",
+  "license": "ISC"
+}
